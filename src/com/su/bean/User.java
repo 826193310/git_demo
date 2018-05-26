@@ -5,6 +5,8 @@ public class User {
 	private String name;
 	private int age;
 	private String school;
+	private String address;
+
 	public String getName() {
 		return name;
 	}
